@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "erlandi-main-api",
+    "email": "admin@git.erlandi.eu.org"
+  },
+  "records": {
+    "CNAME": "erlandi.dev"
+  }
+}
